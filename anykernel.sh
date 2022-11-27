@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Roulette-Kernel by Himemori  t.me/Himemori
+kernel.string=
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=merlin
+device.name1=lancelot
 device.name2=
 device.name3=
 device.name4=
