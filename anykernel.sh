@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Yukina-Kernel by Mikazuuu07  t.me/Mikazuuu07
+kernel.string=
 do.devicecheck=1
 do.modules=0
 do.systemless=1
