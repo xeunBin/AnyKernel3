@@ -90,4 +90,3 @@ write_boot; # use flash_boot to skip ramdisk repack, e.g. for devices with init_
 #write_boot; # use flash_boot to skip ramdisk repack, e.g. for dtb on devices with hdr v4 but no vendor_kernel_boot
 ## end vendor_boot install
 
->>>>>>> 03046c34e36c905acca07b32a1d6d0288c571415
