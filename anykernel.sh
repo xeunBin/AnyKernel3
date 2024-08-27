@@ -5,7 +5,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Fearless
+kernel.string=
 do.devicecheck=0
 do.modules=0
 do.systemless=1
